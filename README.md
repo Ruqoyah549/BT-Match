@@ -9,10 +9,11 @@ A Flutter application that displays a football team (Premier League 2021/2022) w
 
 ## Getting Started
 
-Get Flutter SDK https://docs.flutter.dev/get-started/install
-Download and Install Android Studio / Visual Studio Code
+* Get Flutter SDK https://docs.flutter.dev/get-started/install
+* Download and Install 
+    Android Studio / Visual Studio Code
 
-Clone repository
-From Terminal run => flutter pub get 
-From Terminal run => flutter run
+* Clone repository
+* From Terminal run => flutter pub get 
+* From Terminal run => flutter run
 
